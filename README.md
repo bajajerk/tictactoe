@@ -3,5 +3,5 @@
 
 Two player TIC TAC TOE 
 
-
-Simply go to folder dir
+Open Terminal
+Simply go to folder dir and run #ruby app.rb
