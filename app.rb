@@ -38,6 +38,8 @@ while i<n
 end
 end 
 
+
+# calling board function
 boardview a,n
 
 
